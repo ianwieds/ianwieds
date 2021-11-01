@@ -5,11 +5,11 @@
 - 📫 Discord: ianwieds#0001
 
 ## Projects
-[Somiibo](https://somiibo.com)
-[Slapform](https://slapform.com)
-[Optiic](https://optiic.com)
-[Proxifly](https://proxifly.com)
-[Operst](https://operstagency.com)
+- [Somiibo](https://somiibo.com)
+- [Slapform](https://slapform.com)
+- [Optiic](https://optiic.com)
+- [Proxifly](https://proxifly.com)
+- [Operst](https://operstagency.com)
 
 <!---
 iwiedenm/iwiedenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
