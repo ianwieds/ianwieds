@@ -1,10 +1,16 @@
+# Ian Thomas Wiedenman
+
+## About Me
 - 👋 Hi, I’m @iwiedenm
-- 👀 I’m interested in music
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on things that make money
+- 👀 I'm interested in music
+- 🌱 My main language is Node.js
+- 💞️ I'm looking to collaborate on innovative and fun projects
 - 📫 Discord: ianwieds#0001
 
-## Projects
+## My Company
+- [ITW Creative Works](https://itwcreativeworks.com)
+
+### Our Projects
 - [Somiibo](https://somiibo.com)
 - [Slapform](https://slapform.com)
 - [Optiic](https://optiic.com)
