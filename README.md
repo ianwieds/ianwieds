@@ -17,8 +17,11 @@
 ### Our Projects
 - [Somiibo](https://somiibo.com)
 - [Slapform](https://slapform.com)
-- [Optiic](https://optiic.com)
+- [Optiic](https://optiic.dev)
 - [Proxifly](https://proxifly.com)
+- [DashQR](https://dashqr.app)
+- [Sniips](https://sniips.come)
+- [Giftly](https://giftly.app)
 - [Operst](https://operstagency.com)
 
 <!---
