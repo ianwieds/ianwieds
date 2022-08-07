@@ -20,9 +20,11 @@
 - [Optiic](https://optiic.dev)
 - [Proxifly](https://proxifly.com)
 - [DashQR](https://dashqr.app)
-- [Sniips](https://sniips.come)
+- [Sniips](https://sniips.com)
 - [Giftly](https://giftly.app)
 - [Operst](https://operstagency.com)
+- [Replyify](https://replyify.app)
+- [Bink](https://bink.to)
 
 <!---
 iwiedenm/iwiedenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
