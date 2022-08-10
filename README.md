@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<h2>🦄 Our projects</h2>
+<h2>🦄 Our Projects</h2>
 
 <p align="center">
   <a href="https://somiibo.com">
@@ -53,7 +53,7 @@
   </a> 
 </p>
 
-### And... some projects in progress
+### And... Some Projects in Progress
 - [DashQR](https://dashqr.app)
 - [Giftly](https://giftly.app)
 - [Operst](https://operstagency.com)
@@ -61,7 +61,7 @@
 - [Bink](https://bink.to)
 
 
-<h2>✨ About me</h2>
+<h2>✨ About Me</h2>
 <p>I'm Ian, a creative fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Los Angeles, USA</b>. I love building apps and products that help people solve real-world problems.</p>
 
 <p>
