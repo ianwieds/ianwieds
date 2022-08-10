@@ -51,11 +51,17 @@
   <a href="https://sniips.com">
     <img src="https://cdn.itwcreativeworks.com/assets/sniips/images/logo/sniips-combomark-black-x.svg" height="64px">
   </a> 
-   
 </p>
 
+### And... some projects in progress
+- [DashQR](https://dashqr.app)
+- [Giftly](https://giftly.app)
+- [Operst](https://operstagency.com)
+- [Replyify](https://replyify.app)
+- [Bink](https://bink.to)
 
-<h2>✒️ About me</h2>
+
+<h2>✨ About me</h2>
 <p>I'm Ian, a creative fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Los Angeles, USA</b>. I love building apps and products that help people solve real-world problems.</p>
 
 <p>
