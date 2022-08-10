@@ -64,6 +64,7 @@
 <h2>✨ About Me</h2>
 <p>I'm Ian, a creative fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Los Angeles, USA</b>. I love building apps and products that help people solve real-world problems.</p>
 
+<h3>Favorite Tools</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -77,6 +78,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<h3>GitHub Profile</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=iwiedenm&show_icons=true&count_private=true" alt="iwiedenm" />
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=iwiedenm.iwiedenm" alt="visitors"></p>
