@@ -6,15 +6,15 @@
   <a href="https://www.linkedin.com/in/ian-wiedenman/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.twitter.com/kiruemusic">
+<!--   <a href="https://www.twitter.com/kiruemusic">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/kiruemusic/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="https://dev.to/iwiedenm">
+<!--   <a href="https://dev.to/iwiedenm">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
