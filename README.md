@@ -1,6 +1,6 @@
 
 <h1 align="center">Ian Wiedenman</h1>
-<h3 align="center">CEO | Software Engineer | Digital Marketing Agent | Record Producer</h3>
+<h3 align="center">CEO • Software Engineer • Digital Marketing Agent • Record Producer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ian-wiedenman/">
