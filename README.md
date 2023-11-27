@@ -21,7 +21,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🏰 I'm the CEO and head developer of <a href="https://itwcreativeworks.com">ITW Creative Works</a>, our creative development agency
+- 🏰 I'm the CEO and head developer of <a href="https://itwcreativeworks.com">ITW Creative Works</a>, a creative development agency
 - 🌱 My main language is Node.js
 - 💞️ I'm looking to collaborate on innovative and fun projects
 - 🎧 I produce music as <a href="https://kiruemusic.com">KIRUE</a>
