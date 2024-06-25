@@ -17,6 +17,24 @@
   </a> -->
 </p>
 
+
+<div align="center">
+  <strong>
+    I quit corporate America in 2017 to embark on my risky yet rewarding entrepreneurial journey. 
+  </strong>
+  <br>
+  <strong>
+    Today, I work for myself, building projects I'm passionate about.    
+  </strong>
+  <br>
+  <strong>
+    I'm proud to say that millions of people use my creations every day, improving their lives in meaningful ways!
+  </strong>
+</div>
+
+<br>
+<br>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -40,6 +58,14 @@
     <img src="https://cdn.itwcreativeworks.com/assets/slapform/images/logo/slapform-combomark-multi-x.svg" height="64px">
   </a> 
   <br>  <br>
+  <a href="https://chatsy.ai">
+    <img src="https://cdn.itwcreativeworks.com/assets/chatsy/images/logo/chatsy-combomark-black-x.svg" height="64px">
+  </a> 
+  <br>  <br>
+<!--   <a href="https://studymonkey.ai">
+    <img src="https://cdn.itwcreativeworks.com/assets/studymonkey/images/logo/studymonkey-combomark-black-x.svg" height="64px">
+  </a> 
+  <br>  <br> -->
   <a href="https://proxifly.com">
     <img src="https://cdn.itwcreativeworks.com/assets/proxifly/images/logo/proxifly-combomark-black-x.svg" height="64px">
   </a> 
