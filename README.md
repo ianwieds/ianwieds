@@ -105,6 +105,6 @@
 </p>
 
 <h3>GitHub Profile</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=ianwieds&show_icons=true&count_private=true" alt="iwiedenm" />
+<img src="https://github-readme-stats.vercel.app/api?username=ianwieds&show_icons=true&count_private=true" alt="ianwieds" />
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ianwieds.ianwieds" alt="visitors"></p>
+<p><img src="https://img.shields.io/github/search/ianwieds/ianwieds" alt="visitors"></p>
