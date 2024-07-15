@@ -20,11 +20,11 @@
 
 <div align="center">
   <strong>
-    I quit the corporate 9 - 5 lifestyle in 2017 to embark on my risky yet rewarding entrepreneurial journey. 
+    I <a href="https://ianwiedenman.com/blog/the-evolution-of-my-business-from-one-app-to-a-diverse-holding-company">quit the corporate 9 - 5 lifestyle in 2017</a> to embark on my risky yet rewarding entrepreneurial journey. 
   </strong>
   <br>
   <strong>
-    Today, I work for myself, building projects I'm passionate about.    
+    Today, I work for myself, building <a href="https://itwcreativeworks.com/projects">projects</a> I'm passionate about.    
   </strong>
   <br>
   <strong>
