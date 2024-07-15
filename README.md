@@ -20,7 +20,7 @@
 
 <div align="center">
   <strong>
-    I quit corporate America in 2017 to embark on my risky yet rewarding entrepreneurial journey. 
+    I quit the corporate 9 - 5 lifestyle in 2017 to embark on my risky yet rewarding entrepreneurial journey. 
   </strong>
   <br>
   <strong>
@@ -28,7 +28,7 @@
   </strong>
   <br>
   <strong>
-    I'm proud to say that millions of people use my creations every day, improving their lives in meaningful ways!
+    I'm proud to say that millions of people use my creations every day to improve their lives in meaningful ways!
   </strong>
 </div>
 
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-<h2>🦄 Our Projects</h2>
+<h2>🦄 My Projects</h2>
 
 <p align="center">
   <a href="https://somiibo.com">
@@ -107,4 +107,6 @@
 <h3>GitHub Profile</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=ianwieds&show_icons=true&count_private=true" alt="ianwieds" />
 
-<p><img src="https://img.shields.io/github/search/ianwieds/ianwieds" alt="visitors"></p>
+<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianwieds&rank=SSS,SS,S,AAA,AA,A&column=5" alt="ianwieds" /></a> </p> -->
+
+<p><img src="https://komarev.com/ghpvc/?username=ianwieds&label=Profile%20views&color=0e75b6&style=flat" alt="ianwieds" /> </p>
