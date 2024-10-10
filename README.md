@@ -3,7 +3,7 @@
 <h3 align="center">CEO • Software Engineer • Digital Marketing Agent • Record Producer</h3>
 
 <p align="center">
-  <a href="https://www.kiruemusic.com">
+  <a href="https://ianwiedenman.com">
     <img src="https://img.shields.io/badge/website-000000.svg?&style=for-the-badge&logo=web&logoColor=white">
   </a>  
   <a href="https://www.linkedin.com/in/ian-wiedenman/">
