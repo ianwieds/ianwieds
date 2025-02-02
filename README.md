@@ -31,7 +31,7 @@
   </strong>
   <br>
   <strong>
-    I'm proud to say that millions of people use my creations every day to improve their lives in meaningful ways!
+    I'm proud to say that millions of people now use my creations to enhance their productivity and innovation.
   </strong>
 </div>
 
